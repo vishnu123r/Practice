@@ -25,7 +25,7 @@ insert into PETRESCUE values
 	
 ;
 
--- Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table.
+-- Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table./n
 SELECT SUM(COST) From PETRESCUE;
 
 -- Query A2: Enter a function that displays the total cost of all animal rescues in the PETRESCUE table in a column called SUM_OF_COST.
