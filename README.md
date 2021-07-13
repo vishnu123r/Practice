@@ -1,4 +1,4 @@
-A dataset containing pet rescue details was created using the attached sql script. The sql queries for the corresponding queries are listed below.
+## A dataset containing pet rescue details was created using the attached sql script. The sql queries for the corresponding queries are listed below.
 
 ### Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table.
 
