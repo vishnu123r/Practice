@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## A dataset containing pet rescue details was created using the attached sql script. The sql commands for the corresponding queries are listed below.
 
 ### Query A1: Enter a function that calculates the total cost of all animal rescues in the PETRESCUE table.
@@ -64,24 +63,3 @@ SELECT (rescuedate + 3 DAYS) FROM petrescue;
 ### Query C5: Enter a function that displays the length of time the animals have been rescued; the difference between today’s date and the rescue date.
 
 SELECT (CURRENT_DATE - rescuedate) FROM petrescue;
-=======
-# Practice Repository
-This repository is a collection of practice projects and exercises involving SQL, Jupyter notebooks, machine learning and APIs.
-
-## Prerequisites
-In order to run the code in this repository, you will need to have the following software installed:
-- [Python 3.7 or higher](https://www.python.org/downloads/)
-- [Jupyter Notebook](https://jupyter.org/install)
-- [SQLite3](https://www.sqlite.org/download.html)
-
-You may also need to install additional libraries, such as 'pandas', 'sklearn' and 'requests', depending on the specific projects you are working on. These can be installed using pip.
-
-## Getting Started
-- Clone the repository to your local machine: git clone git@github.com:vishnu123r/Practice.git
-- Navigate to the project directory: cd Practice
-- Open a Jupyter Notebook by running jupyter notebook in the terminal
-- From the Jupyter Notebook homepage, navigate to the project you want to work on and open the corresponding notebook file.
-
-## Authors
-Ramanah Visnupriyan
->>>>>>> bb05601fef5d07162ee473e215c46b1783fd8b78
